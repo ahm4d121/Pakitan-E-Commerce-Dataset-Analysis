@@ -2,6 +2,8 @@
 
 A machine learning project that analyzes Pakistan's largest e-commerce dataset (~1 million transactions from 2016–2018) to predict whether an order will be cancelled, achieving **85.87% test accuracy** with a Random Forest classifier.
 
+
+DATASET : https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 ---
 
 ## Problem Statement
